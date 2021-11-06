@@ -10,4 +10,13 @@ a {
 ul, ol {
   list-style: none;
 }
+
+.ms-auto {
+  position: relative;
+  left: -400px;
+}
+
+.ms-auto .active {
+  color: green;
+}
 /*# sourceMappingURL=style.css.map */
