@@ -1,0 +1,13 @@
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  display: inline-block;
+}
+
+ul, ol {
+  list-style: none;
+}
+/*# sourceMappingURL=style.css.map */
